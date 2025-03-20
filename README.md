@@ -1,4 +1,4 @@
-# Hi there, I'm Solaiman! 👋
+# Hi there, I'm Solaiman Hossain! 👋
 
 🚀 **Full-Stack Developer**
 
