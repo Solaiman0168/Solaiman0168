@@ -10,7 +10,7 @@ I’m a passionate **Full-Stack Developer** with expertise in **Laravel, Express
 - **Backend:** Laravel (PHP), Express.js (Node.js)
 - **Databases:** MySQL, PostgreSQL
 - **DevOps & Tools:** Docker, CI/CD, Nginx, Apache, Cloudflare, AWS, Firebase
-- **Other Technologies:** Zustand, Redux, JWT Authentication, WebSockets, REST APIs, GraphQL
+- **Other Technologies:** Zustand, Redux, JWT Authentication, REST APIs
 
 ## 🔥 What I'm Working On
 
