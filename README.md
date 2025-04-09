@@ -15,8 +15,6 @@ I’m a passionate **Full-Stack Developer** with expertise in **Laravel, Express
 ## 🔥 What I'm Working On
 
 - 🌍 A **multivendor Inventory System** platform using **Express.js, PostgreSQL, Next.js**
-- 🔐 Improving **authentication flows** with NextAuth & Zustand
-- 📈 Trading analysis tool using **Binance API** in Node.js
 - ⚙️ Learning & implementing **DevOps** best practices
 
 
