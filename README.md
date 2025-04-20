@@ -8,7 +8,7 @@ I’m a passionate **Full-Stack Developer** with expertise in **Laravel, Express
 
 - **Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, Material UI
 - **Backend:** Laravel (PHP), Express.js (Node.js)
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other Technologies:** Zustand, Redux, JWT Authentication, REST APIs
 
 ## 🔥 What I'm Working On
