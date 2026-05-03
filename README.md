@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer**
 
-I’m a passionate **Software Engineer** with expertise in **Laravel, Express.js, MySQL, PostgreSQL, React.js and Next.js**. Currently, I work at **Finobytes**, specialising in building scalable web applications, e-commerce platforms, and custom integrations.
+I’m a passionate **Software Engineer** with expertise in **Laravel, Express.js, MySQL, PostgreSQL, React.js and Next.js**. Currently, I work at **Finobytes**, specialising in building scalable web applications, e-commerce platforms, Reward management systems, POS, REST API, and custom integrations.
 
 ## 🛠️ Tech Stack & Skills
 
