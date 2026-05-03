@@ -1,8 +1,8 @@
 # Hi there, I'm Solaiman Hossain! 👋
 
-🚀 **Full-Stack Developer**
+🚀 **Senior Software Engineer**
 
-I’m a passionate **Full-Stack Developer** with expertise in **Laravel, Express.js, MySQL, PostgreSQL, React.js and Next.js**. Currently, I work at **Combosoft Ltd**, specialising in building scalable web applications, e-commerce platforms, and custom integrations.
+I’m a passionate **Software Engineer** with expertise in **Laravel, Express.js, MySQL, PostgreSQL, React.js and Next.js**. Currently, I work at **Finobytes**, specialising in building scalable web applications, e-commerce platforms, and custom integrations.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -13,7 +13,7 @@ I’m a passionate **Full-Stack Developer** with expertise in **Laravel, Express
 
 ## 🔥 What I'm Working On
 
-- 🌍 A **multivendor Inventory System** platform using **Express.js, PostgreSQL, Next.js**
+- 🌍 A **MaxReward – Reward Management System** platform using **Laravel, MySql, React.js**
 - ⚙️ Learning & implementing **DevOps** best practices
 
 
